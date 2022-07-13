@@ -2,3 +2,4 @@
 
 ### RaycastでのPR作成
 
+⌘ option shift Ctrl P	
